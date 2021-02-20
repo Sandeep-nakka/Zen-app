@@ -1,0 +1,66 @@
+2021-02-20 10:27:30 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 10:27:33 (Log.java:34)  Maximizing the Window
+2021-02-20 10:27:33 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 10:27:36 (Log.java:34)  Executing : Zen.Test.TC_1_LoginPageTest
+2021-02-20 10:32:08 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 10:32:11 (Log.java:34)  Maximizing the Window
+2021-02-20 10:32:11 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 10:32:15 (Log.java:34)  Executing : Zen.Test.TC_1_LoginPageTest
+2021-02-20 10:48:28 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 10:48:31 (Log.java:34)  Maximizing the Window
+2021-02-20 10:48:31 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 10:48:34 (Log.java:34)  Executing : Zen.Test.TC_1_LoginPageTest
+2021-02-20 10:48:40 (Log.java:34)  Zendesk...
+2021-02-20 10:52:23 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 10:52:27 (Log.java:34)  Maximizing the Window
+2021-02-20 10:52:27 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 10:52:30 (Log.java:34)  Executing : Zen.Test.TC_1_LoginPageTest
+2021-02-20 10:52:35 (Log.java:34)  Zendesk...
+2021-02-20 11:02:53 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 11:02:56 (Log.java:34)  Maximizing the Window
+2021-02-20 11:02:56 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 11:02:59 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 11:22:59 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 11:23:02 (Log.java:34)  Maximizing the Window
+2021-02-20 11:23:02 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 11:23:05 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 11:28:19 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 11:28:23 (Log.java:34)  Maximizing the Window
+2021-02-20 11:28:23 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 11:28:26 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 11:33:35 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 11:33:38 (Log.java:34)  Maximizing the Window
+2021-02-20 11:33:38 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 11:33:43 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 11:47:41 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 11:47:44 (Log.java:34)  Maximizing the Window
+2021-02-20 11:47:44 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 11:47:47 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 12:00:33 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 12:00:36 (Log.java:34)  Maximizing the Window
+2021-02-20 12:00:36 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 12:00:39 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 17:58:36 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 17:58:41 (Log.java:34)  Maximizing the Window
+2021-02-20 17:58:41 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 17:58:44 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 18:01:59 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 18:02:02 (Log.java:34)  Maximizing the Window
+2021-02-20 18:02:02 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 18:02:05 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 18:11:15 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 18:11:18 (Log.java:34)  Maximizing the Window
+2021-02-20 18:11:18 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 18:11:21 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 18:17:14 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 18:17:18 (Log.java:34)  Maximizing the Window
+2021-02-20 18:17:18 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 18:17:21 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 19:19:51 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 19:19:55 (Log.java:34)  Maximizing the Window
+2021-02-20 19:19:56 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 19:19:59 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
+2021-02-20 19:27:27 (Log.java:34)  Executing the Test case in-- CHROME --browser
+2021-02-20 19:27:30 (Log.java:34)  Maximizing the Window
+2021-02-20 19:27:30 (Log.java:34)  Opening the URL: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
+2021-02-20 19:27:33 (Log.java:34)  Executing : Zen.Test.TC_2_CreateChildTicket
