@@ -58,11 +58,11 @@ public class BasePage {
 		return destinationFile;
 	}
 	
-//	@AfterClass
-//	public void closebrowser(){
-//			Log.info("Closing the Browser");
-//			driver.quit();
-//	}
+	@AfterClass
+	public void closebrowser(){
+			Log.info("Closing the Browser");
+			driver.quit();
+	}
 
 		
 }

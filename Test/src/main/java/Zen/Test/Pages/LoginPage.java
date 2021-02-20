@@ -15,9 +15,6 @@ public class LoginPage {
      By email = By.xpath("//input[@id='user_email']");
 	 By password = By.xpath("//input[@id='user_password']");
 	 By signin= By.xpath("//input[@id='sign-in-submit-button']");
-	 By loggedinuser=By.xpath("//a[normalize-space()='Melissa Wylie']");
-	 By userMessageContent=By.id("userMessageContent");
-	 By alerterror=By.xpath("//li[normalize-space()='Email is required']");
 	
 
 	// 2. Constructor of page class:
@@ -53,16 +50,6 @@ public class LoginPage {
 	public String getCurrentUrl(){
 		return elementActions.doGetCurrentUrl();
 }
-	public String getLoggeduser() throws InterruptedException {
-		elementActions.waitelementtoload();
-		return elementActions.doGetText(loggedinuser);
 
-	}
-	public String getusermessage(){
-		return elementActions.doGetText(userMessageContent);
-	}
-	public String geterrorText() {
-		return elementActions.doGetText(alerterror);
-	}
 
 }
