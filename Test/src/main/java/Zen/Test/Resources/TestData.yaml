@@ -1,7 +1,7 @@
 name: TEST
 url: https://z3nsreenivasasupport.zendesk.com/access/unauthenticated?
-username: sreenivasa.rao+autoagent2@zendesk.com
-password: Zendesk@123
+username:
+password: 
 browser: chrome
 ticketurl: https://z3nsreenivasasupport.zendesk.com/agent/tickets/200497
 
